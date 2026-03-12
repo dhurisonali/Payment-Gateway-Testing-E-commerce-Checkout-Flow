@@ -15,7 +15,6 @@ Project simulates real ecommerce platforms like Amazon and Flipkart.
 
 ## Tools Used
 - Excel
-- Postman
 - SQL
 - Browser DevTools
 
@@ -35,8 +34,7 @@ Project simulates real ecommerce platforms like Amazon and Flipkart.
 ## Files in Repository
 
 OpenCart_Test_Cases.xlsx  
-OpenCart_Bug_Report.xlsx  
-OpenCart_Postman_Collection.json  
+OpenCart_Bug_Report.xlsx    
 OpenCart_SQL_Queries.sql  
 README.md
 
